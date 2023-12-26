@@ -1,3 +1,5 @@
+print('Bem vindo a Ferramenta de Cadastro')
+
 arquivo = open('cadastros.csv', 'a')
 
 nome        = input('Digite o nome: ')
